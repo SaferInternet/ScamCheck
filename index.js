@@ -13,6 +13,10 @@ app.get('/', (req, res) => {
 	res.render('home');
 });
 
+app.get('/data', (req, res) => {
+	res.json(require('./data.json'));
+});
+
 app.listen('80', () => {
 	console.log(chalk.green('[WEB]: Started!'));
 });
