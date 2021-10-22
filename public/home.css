@@ -8,3 +8,8 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #fcfcfc;
 }
+
+.gray:focus,
+.gray {
+	background-color: #3d3d3d;
+}
