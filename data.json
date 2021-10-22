@@ -1,13 +1,7 @@
 {
 	"info": "All of your scam and trusted sites here.",
 	"sites": {
-		"bad": [ "https://dlscord.com/", "http://bms-apartment.com/", "https://steancommunity.com/" ],
-		"trusted": [
-			"https://discord.com",
-			"https://google.com",
-			"https://wikipedia.org",
-			"https://twitch.tv",
-			"https://youtube.com"
-		]
+		"bad": [ "dlscord.com", "bms-apartment.com", "steancommunity.com" ],
+		"trusted": [ "discord.com", "google.com", "wikipedia.org", "twitch.tv", "youtube.com" ]
 	}
 }
