@@ -1,1 +1,1 @@
-# isthisascam.com
+# Is this a scam?
